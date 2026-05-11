@@ -2,4 +2,9 @@
 .venv/
 __pycache__/
 mvp.db
+test.db
 uploads/
+vector_store/
+frontend/node_modules/
+frontend/build/
+frontend/dist/

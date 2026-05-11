@@ -1,0 +1,43 @@
+INFO:     127.0.0.1:51730 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:51538 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:51538 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:51538 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:51808 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:62637 - "OPTIONS /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62637 - "POST /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:52556 - "POST /auth/register HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:50777 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50777 - "POST /auth/login HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:54085 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54085 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57123 - "POST /auth/login HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:50425 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50425 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55230 - "OPTIONS /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55230 - "POST /auth/register HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:57652 - "POST /auth/register HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55533 - "POST /auth/register HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:57930 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57930 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57930 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57930 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57930 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59243 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56555 - "OPTIONS /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56556 - "OPTIONS /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56557 - "POST /auth/register HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:51149 - "OPTIONS /auth/register HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:54576 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:52195 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:62830 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:61311 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:51968 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51968 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55059 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55059 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50895 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:50895 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59057 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58153 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:49528 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:55395 - "OPTIONS /auth/login HTTP/1.1" 400 Bad Request

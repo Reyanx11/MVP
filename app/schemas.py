@@ -38,8 +38,29 @@ class DocumentResponse(BaseModel):
 class DocumentChunkResponse(BaseModel):
     id:int
     document_id:int
-    chunk_id:int
+    chunk_index:int
     content:str
     
     class Config:
         from_attributes = True
+
+class SearchRequest(BaseModel):
+    question:str
+    top_k: int=5
+
+class SearchResult(BaseModel):
+    chunk_id: int
+    document_id: int
+    document_title: str
+    department: str
+    content:str
+    distance: float
+
+class ChatRequest(BaseModel):
+    question: str
+    top_k: int = 5
+
+
+class ChatResponse(BaseModel):
+    answer: str
+    sources: list[SearchResult]
